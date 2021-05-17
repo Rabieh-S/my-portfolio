@@ -4,7 +4,7 @@
     "name": "studio"
   },
   "api": {
-    "projectId": "https://unpkg.com/browse/babel-standalone@6.26.0/babel.min.js",
+    "projectId": "22aibpgz",
     "dataset": "production"
   },
   "plugins": [
